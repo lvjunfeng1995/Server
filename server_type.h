@@ -2,7 +2,7 @@
 #define _SERVER_TYPE_H
 
 #ifdef __cplusplus
-extern "c"{
+extern "C"{
 #endif
 
 	typedef unsigned char  INT8U;
