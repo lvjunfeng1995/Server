@@ -11,7 +11,8 @@ extern "C"{
 
 	typedef char  INT8;
 	typedef short INT16;
-        typedef int   INT32;
+	typedef int   INT32;
+	typedef char  bool;
 	
 #ifdef __cplusplus	
 }
